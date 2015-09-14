@@ -1,0 +1,16 @@
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\Newtonsoft.Json.dll
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\Newtonsoft.Json.pdb
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_obj\Debug\Newtonsoft.Json.dll
+C:\Projects\noah\NewtonsoftJsonforiOS\Temp\UnityVS_obj\Debug\Newtonsoft.Json.pdb
